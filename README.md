@@ -44,8 +44,8 @@ How to:
 2. Familiarize yourself with the [OMDb API](http://www.omdbapi.com/).
 3. Solve the task described above.
 4. Describe and document your solution in README.md.
-5. Push your code to your own forked repo. Send an email to [Mikael Karlsson](mailto:mikael.karlsson@econans.se) for assessment.
+5. Push your code to your own forked repo. Send an email to [Mikael Dienér](mailto:mikael.diener@econans.com) for assessment.
 
 ## Questions
 
-If there are any questions or uncertainties during the work, the candidate is first and foremost allowed to make assumptions. It is important that these assumptions are clearly stated in the form of comments in the code or in the presentation of the task. If it is not possible to make an assumption, questions can be asked to [Mikael Karlsson](mailto:mikael.karlsson@econans.se).
+If there are any questions or uncertainties during the work, the candidate is first and foremost allowed to make assumptions. It is important that these assumptions are clearly stated in the form of comments in the code or in the presentation of the task. If it is not possible to make an assumption, questions can be asked to [Mikael Dienér](mailto:mikael.diener@econans.com).
